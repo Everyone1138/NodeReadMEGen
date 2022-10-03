@@ -82,6 +82,7 @@ This is a final view of what the README.md file looks like with the users input 
 
 ## Walkthrough Video
 
+
 Below is a link for the user to download the instructional video.
 
 https://drive.google.com/file/d/1ynqmsgBr96TkjzTO6CgMWRK00dej4vML/view
