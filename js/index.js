@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 // importing fs. this is a package that helps us write files. like inquirer it has to be declared or it can't be used.
 const fs = require('fs');
 // this is how this file is able to use the formatting and function of the ReadmeGn file.
-const readMePageContent = require('./lib/ReadmeGn');
+const readMePageContent = require('./ReadmeGn');
 
 // this is the inquirer prompt. this is how you write out the questions that will appear in the terminal 
 inquirer
